@@ -31,7 +31,7 @@ console.log(adult) //to filter the data with cat age older than 5 years old
 
 //reduce
 
-const num = [3+4+5+1];
+const num = [3,4,5,1];
 
 function summation(a, currentValue) {
   return a + currentValue;
